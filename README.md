@@ -2,7 +2,7 @@
 
 ## Deadline: 25, Apr., 2023 23:59 (Tue)
 
-In assignment 4, you will be required to finish a series of coding tasks about principal component analysis (PCA) and feature-based aggregation with PySpark. This assignement is relatively time-consuming, so please **start early**.
+In assignment 4, you will be required to finish a series of coding tasks about principal component analysis (PCA) and feature-based aggregation with PySpark. This assignement is time-consuming, so please **start early**.
 
 ## Assignment
 
